@@ -19,3 +19,13 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+## License
+
+Theme code in this repository is released under the MIT License (see LICENSE).
+
+The following are NOT covered by the MIT License and remain under their own terms:
+- Files derived from the NextGen Starter Theme (MIT, © DivineTechSystems), whose original notice is kept.
+- Files derived from Rock RMS (Rock Community License).
+- Any copy of the 9 Embers Compass theme (see its own LICENSE).
+- Fonts, icon sets, logos, photos and other Good News Church brand assets.
